@@ -1,3 +1,5 @@
+# Palindrome Number
+
 A solution I have written to solve the Palindrome Number programming challenge.
 <br>
 <br>
